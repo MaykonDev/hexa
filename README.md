@@ -1,5 +1,12 @@
 <h1 text align=center>HEXA</h1></br>
-<p text align='center'>Um programa na linguagem C que transforma um número binário em Hexadecimal, Decimal e em caractere</p>
+
+<details>
+  <summary>🌐 - Português:</summary>
+  <p text align='center'>Um programa na linguagem C que transforma um número binário em Hexadecimal, Decimal e em caractere</p>
+</details>
+<details>
+  <summary>🌐 - English:</summary>
+</details>
 
 <details>
   <summary>Instalar no Termux:</summary></br>
