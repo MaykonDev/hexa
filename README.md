@@ -1,11 +1,12 @@
 <h1 text align=center>HEXA</h1></br>
 
 <details>
-  <summary>🌐 - Português:</summary>
+  <summary>🌐 - Português:</summary></br>
   <p text align='center'>Um programa na linguagem C que transforma um número binário em Hexadecimal, Decimal e em caractere</p>
 </details>
 <details>
-  <summary>🌐 - English:</summary>
+  <summary>🌐 - English:</summary></br>
+  <p text align='center'>A C language program that transforms a binary number into Hexadecimal, Decimal, and character</p>
 </details>
 
 <details>
